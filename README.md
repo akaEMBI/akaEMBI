@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akaEMBI&theme=radical)
+<a href="https://github.com/akaEMBI">
+  <img src="https://github-readme-stats.vercel.app/api?username=akaEMBI&show_icons=true&theme=radical" alt="GitHub Stats" align="right" width="400px"/>
+</a>
+
+### Language:
+
+<a href="https://github.com/akaEMBI">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaEMBI&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages" align="right" width="400px" />
+</a>
