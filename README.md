@@ -13,9 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br>
+
+### Stats:
+
 <a href="https://github.com/akaEMBI">
   <img src="https://github-readme-stats.vercel.app/api?username=akaEMBI&show_icons=true&theme=radical" alt="GitHub Stats" align="right" width="400px"/>
 </a>
+
+<br>
 
 ### Language:
 
