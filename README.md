@@ -1,36 +1,16 @@
 # Selamat Datang di akaEMBI! 👋
 
-![akaEMBI Logo](link-ke-gambar)
-
 Saya adalah seorang pengembang perangkat lunak yang bersemangat tentang teknologi dan inovasi. Di sini, saya berbagi proyek-proyek saya, pengalaman belajar, dan pemikiran tentang perkembangan terkini dalam dunia teknologi.
 
 ## Tentang Saya
-- Nama: [Nama Anda]
-- Lokasi: [Lokasi Anda]
-- Bidang: Pengembangan Perangkat Lunak, Data Science
-- Bahasa Pemrograman: Python, Java, JavaScript
-- Minat: Keamanan Cyber, Kecerdasan Buatan, Pengembangan Web
-
-## Proyek Utama
-1. **Nama Proyek**: [Nama Proyek]
-   - Deskripsi: Proyek ini bertujuan untuk mengembangkan solusi keamanan berbasis AI untuk mengidentifikasi ancaman cyber secara real-time.
-   - Teknologi: Python, TensorFlow, RESTful API
-
-2. **Nama Proyek Lain**: [Nama Proyek Lain]
-   - Deskripsi: Aplikasi web interaktif untuk visualisasi data kompleks dan analisis prediktif menggunakan teknik Machine Learning.
-   - Teknologi: JavaScript, React, Flask, Plotly
-
-## Artikel dan Tulisan Terbaru
-- [Menggali Potensi Kecerdasan Buatan dalam Keamanan Cyber](link-ke-artikel1)
-- [Pengembangan Aplikasi Web Responsif dengan React](link-ke-artikel2)
-
-## Pelajaran dan Pengalaman
-- Kursus: Coursera, edX, Udemy
-- Sertifikasi: [Nama Sertifikasi], [Nama Sertifikasi Lain]
-- Kontribusi Open Source: [Nama Proyek Open Source], [Kontribusi Anda]
+- Nama: Surya Astawan
+- Lokasi: Bali -- Indonesia
+- Bidang: Pengembangan Website
+- Bahasa Pemrograman: HTML, CSS, JS, PHP, dan Python
+- Minat: Kecerdasan Buatan & Pengembangan Web
 
 ## Hubungi Saya
-Jika Anda tertarik berkolaborasi atau berbagi ide, jangan ragu untuk menghubungi saya melalui email [email@example.com] atau melalui LinkedIn [linkedin.com/in/username].
+Jika Anda tertarik berkolaborasi atau berbagi ide, jangan ragu untuk menghubungi saya melalui email suryaastawan70@gmail.com atau melalui LinkedIn https://www.linkedin.com/in/igdsuryaastawan/.
 
 Terima kasih telah mengunjungi profil saya! 😊
 
